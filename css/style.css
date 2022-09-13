@@ -1,0 +1,24 @@
+body{
+	font-size: 14px;
+}
+header{
+	background-color: transparent;
+	position: relative;
+	width: 100%;
+	padding: 10px 0;
+	border-bottom: 1px solid #eee;
+}
+
+#hero{
+	background-image: url("../img/home-header-bg.jpg");
+	background-size: cover;
+	background-position: top center;
+	min-height: 400px;
+}
+
+.slide-1´{
+	background-image: url("../../ejercicioExtra/slide-twin-cooling.jpg");
+	background-size: cover;
+	background-position: bottom center;
+	padding: 250px 0;}
+	
