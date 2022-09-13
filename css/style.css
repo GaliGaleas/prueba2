@@ -7,6 +7,7 @@ header{
 	width: 100%;
 	padding: 10px 0;
 	border-bottom: 1px solid #eee;
+	
 }
 
 #hero{
@@ -14,11 +15,31 @@ header{
 	background-size: cover;
 	background-position: top center;
 	min-height: 400px;
+	
+}
+#hero h2, h3{
+	color: #000;
+	margin-right: 40%;
+}
+
+#hero h2{
+	font-size: 30px;
+	font-weight: 600;
+	margin-right: 40%;
+	
+}
+
+#hero h3{
+	font-size: 25px;
+	font-weight: 700;
+	margin-right: 40%;
+	margin-bottom: 40%;
 }
 
 .slide-1´{
 	background-image: url("../../ejercicioExtra/slide-twin-cooling.jpg");
 	background-size: cover;
 	background-position: bottom center;
-	padding: 250px 0;}
-	
+	padding: 250px 0;
+    margin-bottom: 40%;
+}
